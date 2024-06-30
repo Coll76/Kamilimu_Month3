@@ -1,6 +1,6 @@
 # Interactive Storytelling Adventure Game
 
-Welcome to the Interactive Storytelling Adventure Game! This game allows players to immerse themselves in a captivating narrative, make choices, and solve puzzles as they journey through various scenes and challenges.
+Welcome to the Interactive Storytelling Adventure Game!!! This game allows players to immerse themselves in a captivating narrative, make choices, and solve puzzles as they journey through various scenes and challenges.
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ To install and run the game, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-	git clone https://github.com/Coll76/Systems_projects/.git
+	git clone https://github.com/Coll76/Kamilimu_Month3/.git
     ```
     ```
 2. **Navigate to the Project Directory**:
